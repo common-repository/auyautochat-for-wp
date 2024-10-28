@@ -1,0 +1,168 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-01-15 14:26-0300\n"
+"PO-Revision-Date: 2020-01-15 14:26-0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ../includes\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 "
+"|| n%100>14) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: options.php\n"
+
+#: options.php:13
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Nie masz wystarczających uprawnień, aby uzyskać dostęp do tej strony."
+
+#: options.php:16 options.php:530
+msgid "Hi. What can I do for you?"
+msgstr "Cześć. Co mogę dla ciebie zrobić?"
+
+#: options.php:17 options.php:531
+msgid "Chat with us"
+msgstr "Porozmawiaj z nami"
+
+#: options.php:18 options.php:532
+msgid "Write an answer ..."
+msgstr "Napisz odpowiedź ..."
+
+#: options.php:44
+msgid "Chatframe Preview"
+msgstr "Podgląd ramki czatu"
+
+#: options.php:86
+msgid "Autochat Conversation Options"
+msgstr "Opcje konwersacji Autochat"
+
+#: options.php:87 options.php:244
+msgid "Save settings"
+msgstr "Zapisz ustawienia"
+
+#: options.php:90
+msgid "Questions language"
+msgstr "Język pytań"
+
+#: options.php:91
+msgid "Check also Wordpress Language in Settings."
+msgstr "Sprawdź także Język Wordpress w Ustawieniach ogólnych."
+
+#: options.php:112
+msgid "On/off Autochat"
+msgstr "On / Off Autochat"
+
+#: options.php:119
+msgid "Labels and Messages"
+msgstr "Etykiety i wiadomości"
+
+#: options.php:123
+msgid "Title"
+msgstr "Tytuł"
+
+#: options.php:128
+msgid "Placeholder"
+msgstr "Symbol zastępczy"
+
+#: options.php:142
+msgid "Intro Message"
+msgstr "Wiadomość wprowadzająca"
+
+#: options.php:149
+msgid "Chatbot name"
+msgstr "Nazwa Chatbota"
+
+#: options.php:157
+msgid "Show message time"
+msgstr "Pokaż czas wiadomości"
+
+#: options.php:163
+msgid "Don't ask call hour"
+msgstr "Nie pytaj o godzinę połączenia"
+
+#: options.php:169
+msgid "Force Email Validation"
+msgstr "Wymuś weryfikację adresu e-mail"
+
+#: options.php:177
+msgid "Width & Height"
+msgstr "Szerokość wysokość"
+
+#: options.php:180
+msgid "Width"
+msgstr "Szerokość"
+
+#: options.php:185
+msgid "Height"
+msgstr "Wysokość"
+
+#: options.php:191
+msgid "Colors"
+msgstr "Zabarwienie"
+
+#: options.php:195
+msgid "Main color"
+msgstr "Głównym kolor"
+
+#: options.php:200
+msgid "Bubble Background"
+msgstr "Bubble Background"
+
+#: options.php:205
+msgid "Header text color"
+msgstr "Kolor tekstu nagłówka"
+
+#: options.php:212
+msgid "Email"
+msgstr "E-mail"
+
+#: options.php:215
+msgid "To"
+msgstr "Do"
+
+#: options.php:222
+msgid "Subject"
+msgstr "Przedmiot"
+
+#: options.php:229
+msgid "Cc:"
+msgstr "DW:"
+
+#: options.php:234
+msgid "Bcc:"
+msgstr "UDW:"
+
+#: options.php:240
+msgid ""
+"I accept the display of the Autochat Logo on my Auy Automatic Conversation "
+"Button."
+msgstr ""
+"Akceptuję wyświetlanie logo Autochat na moim przycisku Auy Automatic "
+"Conversation."
+
+#: options.php:256
+msgid "There was an error in the settings configuration"
+msgstr "Wystąpił błąd w konfiguracji ustawień"
+
+#: options.php:395
+msgid "Changes saved successfully"
+msgstr "Zmiany zostały zapisane"
+
+#~ msgid "Language"
+#~ msgstr "Język"
+
+#~ msgid "Accept terms and conditions"
+#~ msgstr "Zaakceptuj regulamin"
+
+#~ msgid "On"
+#~ msgstr "On"
+
+#~ msgid "Off"
+#~ msgstr "Off"
+
+#~ msgid "Type here..."
+#~ msgstr "Escribe una respuesta..."

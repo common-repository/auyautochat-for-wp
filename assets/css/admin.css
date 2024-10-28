@@ -1,0 +1,303 @@
+.result {
+	position: fixed;
+    bottom: 0px;
+    left: 0px;
+    z-index: 9999;
+    width: 100%;
+}
+
+.result.get{
+	padding: 0 20px;
+	transition: all .3s linear;
+	-webkit-transition: all .3s linear;
+	padding: 20px;
+	line-height: 0;
+	margin-top: 10px;
+}
+
+.result.yes{
+	border-bottom: 1px solid #cfe2c7;
+	background-color: rgba(203, 238, 188);
+}
+
+.result.no{
+	border-bottom: 1px solid #e47575;
+	background-color: #e4bcbc;
+}
+
+body{
+	background-color: #f1f1f1 !important;
+}
+
+.auy_autochat_options h1{
+	font-size: 30px;
+	color: green;
+}
+
+.auy_autochat_options .language{
+	cursor: pointer;
+}
+
+.auy_autochat_options h2{
+	font-size: 25px;
+    color: green;
+    font-weight: normal;
+}
+
+.auy_autochat_options h3{
+    font-size: 16px;
+    margin-top: 20px;
+   
+}
+
+.auy_autochat_options input[type="text"],
+.auy_autochat_options input[type="email"],
+.auy_autochat_options select,
+.auy_autochat_options textarea{
+	font-size: 12px;
+	background: white;
+	width: 100%;
+}
+
+.auy_autochat_options select{
+	height: 32px;
+}
+
+.auy_autochat_options hr{
+	display: inline-block;
+	width: 50%;
+}
+
+.auy_autochat_options span{
+	font-size: 14px;
+    font-weight: normal;
+}
+
+.auy_autochat_options .wp-color-result-text{
+	font-size: 12px;
+}
+
+.auycht_save_settings{
+	border-radius: 5px;
+    border: 1px solid #25729a;
+    background-color: #3093c7;
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#3093c7), to(#236694));
+    background-image: -webkit-linear-gradient(top, #3093c7, #236694);
+    background-image: -moz-linear-gradient(top, #3093c7, #236694);
+    background-image: -ms-linear-gradient(top, #3093c7, #236694);
+    background-image: -o-linear-gradient(top, #3093c7, #236694);
+    background-image: linear-gradient(to bottom, #3093c7, #236694);
+    color: white;
+    margin-top: 15px;
+    padding: 5px 10px;
+    font-size: 12px;
+    line-height: 1.5;
+}
+
+.auycht_save_settings:hover{
+	border: 1px solid #1c5675;
+    background-color: #26759e;
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#26759e), to(#133d5b));
+    background-image: -webkit-linear-gradient(top, #26759e, #133d5b);
+    background-image: -moz-linear-gradient(top, #26759e, #133d5b);
+    background-image: -ms-linear-gradient(top, #26759e, #133d5b);
+    background-image: -o-linear-gradient(top, #26759e, #133d5b);
+    background-image: linear-gradient(to bottom, #26759e, #133d5b);
+}
+
+.auy_autochat_options .toggle-handle{
+	color: #333 !important;
+    background-color: #fff !important;
+    border-color: #ccc !important;
+}
+
+.auy_autochat_options .toggle .check{
+	width: 15px;
+    margin-bottom: 3px;
+    margin-left: 4px;
+}
+
+.auy_autochat_options .toggle .delete{
+	width: 15px;
+    margin-bottom: 4px;
+    margin-right: 4px;
+}
+
+.auy_notice p{
+	font-size: 15px;
+}
+
+.auy_notice a{
+	margin-left: 10px;
+}
+
+.auy_autochat_options .terms_cont{ 
+	margin-top: 10px;
+}
+
+.auy_autochat_options .terms_cont input{ 
+	margin-left: 5px;
+}
+
+.chatframe_preview{
+	width: 350px;
+	max-width: 350px;
+	position: fixed;
+	right: 10%;
+	z-index: 9999;
+	top: 150px;
+}
+
+.chatframe_preview .title{
+	background-color: #74aa41;
+	height: 40px;
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 0px 5px 20px;
+    font-family: Lato, sans-serif;
+    box-sizing: content-box;
+	border-top-right-radius: 5px;
+	border-top-left-radius: 5px;
+}
+
+.chatframe_preview .title .txt{
+	display: flex;
+    align-items: center;
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+}
+
+.chatframe_preview .title svg{
+	margin-right: 15px; 
+	margin-top: 13px; 
+	vertical-align: middle;
+}
+
+.chatframe_preview .body{
+	background: white;
+	min-height: 370px;
+}
+
+.chatframe_preview .body .msg{
+	word-wrap: break-word;
+    min-width: 50px;
+    max-width: 80%;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    background: #dae1e7;
+	font-family: Ubuntu,helvetica neue,Arial,sans-serif;
+	margin: 0 0 .2rem;
+    font-size: 14px;
+	-webkit-box-ordinal-group: 2;
+    -webkit-order: 1;
+    -ms-flex-order: 1;
+    order: 1;
+    border-top-left-radius: 2px;
+	padding: .5rem;
+	margin: .5rem;
+    font-size: 14px;
+    overflow: hidden;
+	display: inline-block;
+}
+
+.chatframe_preview .body .time{
+	font-size: 0.6rem;
+    color: rgb(125, 123, 123);
+    margin-top: 3px;
+    float: right;
+    cursor: default;
+    user-select: none;
+}
+
+.chatframe_preview .body .chname{
+    color: #5ba0d0;
+}
+
+.chatframe_preview .footer{
+	background: white;
+	border-bottom-right-radius: 5px;
+	border-bottom-left-radius: 5px;
+}
+
+.chatframe_preview .footer .logo{
+	text-align: center;
+	border-bottom: 1px solid rgb(216, 213, 213);
+}
+
+.chatframe_preview .footer .input{
+	height: 48px !important;
+    padding: 15px 0px 0px 15px;
+    width: 85% !important;
+    margin-bottom: 0px !important;
+    font-size: 14px !important;
+    bottom: 3px !important;
+    background: white !important;
+    border-width: initial !important;
+    border-style: none !important;
+    border-color: initial !important;
+    border-image: initial !important;
+	color: rgb(117, 117, 117);
+	font: 400 13.3333px Arial;
+	border-bottom-right-radius: 5px;
+	border-bottom-left-radius: 5px;
+}
+
+.chatframe_preview .footer .plane{
+	position: absolute;
+    z-index: 9999;
+    width: 25px;
+    right: 10px;
+    bottom: 10px;
+}
+
+.chatframe_preview .bubble{
+	text-align: right;
+    background: rgb(116, 170, 65);
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    right: 0px;
+    height: 60px;
+    width: 60px;
+    border: 0px;
+    border-radius: 50%;
+    margin-top: 10px;
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 0px 20px;
+}
+
+.auy_autochat_tooltip {
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+}
+
+.auy_autochat_tooltip .tooltiptext {
+    visibility: hidden;
+    width: 200px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px;
+    position: absolute;
+    z-index: 1;
+    font-size: 12px;
+}
+
+.auy_autochat_tooltip:hover .tooltiptext {
+  visibility: visible;
+}
+
+/***Responsive***/
+@media only screen and (max-width: 1280px) {
+	.chatframe_preview{
+		right: 3%;
+	}
+}
+
+@media only screen and (max-width: 1024px) {
+	.chatframe_preview{
+		display: none;
+	}
+}

@@ -1,0 +1,165 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-01-15 14:31-0300\n"
+"PO-Revision-Date: 2020-01-15 14:31-0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ../includes\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: options.php\n"
+
+#: options.php:13
+msgid "You do not have sufficient permissions to access this page."
+msgstr "このページにアクセスするための十分な権限がありません。"
+
+#: options.php:16 options.php:530
+msgid "Hi. What can I do for you?"
+msgstr "こんにちは。 どういうご用件ですか？"
+
+#: options.php:17 options.php:531
+msgid "Chat with us"
+msgstr "私たちとしゃべる"
+
+#: options.php:18 options.php:532
+msgid "Write an answer ..."
+msgstr "答えを書いてください..."
+
+#: options.php:44
+msgid "Chatframe Preview"
+msgstr "チャットフレームプレビュー"
+
+#: options.php:86
+msgid "Autochat Conversation Options"
+msgstr "自動チャットの会話オプション"
+
+#: options.php:87 options.php:244
+msgid "Save settings"
+msgstr "設定を保存する"
+
+#: options.php:90
+msgid "Questions language"
+msgstr "質問言語"
+
+#: options.php:91
+msgid "Check also Wordpress Language in Settings."
+msgstr "[一般設定]の[Wordpress言語]もチェックします。"
+
+#: options.php:112
+msgid "On/off Autochat"
+msgstr "自動チャットのオン/オフ"
+
+#: options.php:119
+msgid "Labels and Messages"
+msgstr "ラベルとメッセージ"
+
+#: options.php:123
+msgid "Title"
+msgstr "タイトル"
+
+#: options.php:128
+msgid "Placeholder"
+msgstr "プレースホルダー"
+
+#: options.php:142
+msgid "Intro Message"
+msgstr "イントロメッセージ"
+
+#: options.php:149
+msgid "Chatbot name"
+msgstr "チャットボット名"
+
+#: options.php:157
+msgid "Show message time"
+msgstr "メッセージ時間を表示"
+
+#: options.php:163
+msgid "Don't ask call hour"
+msgstr "通話時間を聞かない"
+
+#: options.php:169
+msgid "Force Email Validation"
+msgstr "メール検証を強制する"
+
+#: options.php:177
+msgid "Width & Height"
+msgstr "幅高さ"
+
+#: options.php:180
+msgid "Width"
+msgstr "幅"
+
+#: options.php:185
+msgid "Height"
+msgstr "高さ"
+
+#: options.php:191
+msgid "Colors"
+msgstr "色"
+
+#: options.php:195
+msgid "Main color"
+msgstr "メインカラー"
+
+#: options.php:200
+msgid "Bubble Background"
+msgstr "バブルの背景"
+
+#: options.php:205
+msgid "Header text color"
+msgstr "ヘッダーのテキストの色"
+
+#: options.php:212
+msgid "Email"
+msgstr "Eメール"
+
+#: options.php:215
+msgid "To"
+msgstr "に"
+
+#: options.php:222
+msgid "Subject"
+msgstr "件名"
+
+#: options.php:229
+msgid "Cc:"
+msgstr "Cc:"
+
+#: options.php:234
+msgid "Bcc:"
+msgstr "Bcc:"
+
+#: options.php:240
+msgid ""
+"I accept the display of the Autochat Logo on my Auy Automatic Conversation "
+"Button."
+msgstr "Auy自動会話ボタンでのAutochatロゴの表示を受け入れます。"
+
+#: options.php:256
+msgid "There was an error in the settings configuration"
+msgstr "設定の構成にエラーがありました"
+
+#: options.php:395
+msgid "Changes saved successfully"
+msgstr "変更が正常に保存されました"
+
+#~ msgid "Language"
+#~ msgstr "言語"
+
+#~ msgid "Accept terms and conditions"
+#~ msgstr "利用規約に同意する"
+
+#~ msgid "On"
+#~ msgstr "に"
+
+#~ msgid "Off"
+#~ msgstr "オフ"
+
+#~ msgid "Type here..."
+#~ msgstr "Escribe una respuesta..."

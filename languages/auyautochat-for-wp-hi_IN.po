@@ -1,0 +1,164 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-01-15 14:30-0300\n"
+"PO-Revision-Date: 2020-01-15 14:31-0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ../includes\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: options.php\n"
+
+#: options.php:13
+msgid "You do not have sufficient permissions to access this page."
+msgstr "इस पृष्ठ तक पहुँचने के लिए आपके पास पर्याप्त अनुमति नहीं है।."
+
+#: options.php:16 options.php:530
+msgid "Hi. What can I do for you?"
+msgstr "नमस्ते। मै आप के लिये क्य कर सक्त हु?"
+
+#: options.php:17 options.php:531
+msgid "Chat with us"
+msgstr "हम से बात करे"
+
+#: options.php:18 options.php:532
+msgid "Write an answer ..."
+msgstr "एक उत्तर लिखें ..."
+
+#: options.php:44
+msgid "Chatframe Preview"
+msgstr "चैट फ्रेम पूर्वावलोकन"
+
+#: options.php:86
+msgid "Autochat Conversation Options"
+msgstr "ऑटोचैट वार्तालाप विकल्प"
+
+#: options.php:87 options.php:244
+msgid "Save settings"
+msgstr "समायोजन बचाओ"
+
+#: options.php:90
+msgid "Questions language"
+msgstr "प्रश्न भाषा"
+
+#: options.php:91
+msgid "Check also Wordpress Language in Settings."
+msgstr "सामान्य सेटिंग्स में वर्डप्रेस भाषा की भी जांच करें।."
+
+#: options.php:112
+msgid "On/off Autochat"
+msgstr "ऑटोचैट पर / बंद"
+
+#: options.php:119
+msgid "Labels and Messages"
+msgstr "लेबल और संदेश"
+
+#: options.php:123
+msgid "Title"
+msgstr "शीर्षक"
+
+#: options.php:128
+msgid "Placeholder"
+msgstr "प्लेसहोल्डर"
+
+#: options.php:142
+msgid "Intro Message"
+msgstr "इंट्रो मैसेज"
+
+#: options.php:149
+msgid "Chatbot name"
+msgstr "चाटबोट नाम"
+
+#: options.php:157
+msgid "Show message time"
+msgstr "संदेश समय दिखाएँ"
+
+#: options.php:163
+msgid "Don't ask call hour"
+msgstr "कॉल घंटे मत पूछो"
+
+#: options.php:169
+msgid "Force Email Validation"
+msgstr "बल ईमेल मान्यता"
+
+#: options.php:177
+msgid "Width & Height"
+msgstr "चौड़ाई ऊंचाई"
+
+#: options.php:180
+msgid "Width"
+msgstr "चौड़ाई"
+
+#: options.php:185
+msgid "Height"
+msgstr "ऊंचाई"
+
+#: options.php:191
+msgid "Colors"
+msgstr "रंग की"
+
+#: options.php:195
+msgid "Main color"
+msgstr "मुखय रंग"
+
+#: options.php:200
+msgid "Bubble Background"
+msgstr "बबल बैकग्राउंड"
+
+#: options.php:205
+msgid "Header text color"
+msgstr "हेडर टेक्स्ट का रंग"
+
+#: options.php:212
+msgid "Email"
+msgstr "ईमेल"
+
+#: options.php:215
+msgid "To"
+msgstr "सेवा"
+
+#: options.php:222
+msgid "Subject"
+msgstr "विषय"
+
+#: options.php:229
+msgid "Cc:"
+msgstr "प्रतिलिपि:"
+
+#: options.php:234
+msgid "Bcc:"
+msgstr "गुप्त प्रतिलिपि:"
+
+#: options.php:240
+msgid ""
+"I accept the display of the Autochat Logo on my Auy Automatic Conversation Button."
+msgstr "मैं अपने Auy स्वचालित वार्तालाप बटन पर ऑटोचैट लोगो के प्रदर्शन को स्वीकार करता हूं।."
+
+#: options.php:256
+msgid "There was an error in the settings configuration"
+msgstr "सेटिंग कॉन्फ़िगरेशन में कोई त्रुटि थी"
+
+#: options.php:395
+msgid "Changes saved successfully"
+msgstr "परिवर्तनों को सफलतापूर्वक सहेजा"
+
+#~ msgid "Language"
+#~ msgstr "भाषा: हिन्दी"
+
+#~ msgid "Accept terms and conditions"
+#~ msgstr "नियम और शर्तों को स्वीकार करें"
+
+#~ msgid "On"
+#~ msgstr "पर"
+
+#~ msgid "Off"
+#~ msgstr "बंद"
+
+#~ msgid "Type here..."
+#~ msgstr "Escribe una respuesta..."

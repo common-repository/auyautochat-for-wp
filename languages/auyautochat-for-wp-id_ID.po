@@ -1,0 +1,167 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-01-15 14:25-0300\n"
+"PO-Revision-Date: 2020-01-15 14:25-0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: id\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ../includes\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: options.php\n"
+
+#: options.php:13
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Anda tidak memiliki izin yang memadai untuk mengakses halaman ini."
+
+#: options.php:16 options.php:530
+msgid "Hi. What can I do for you?"
+msgstr "Hai. Apa yang bisa saya lakukan untuk Anda?"
+
+#: options.php:17 options.php:531
+msgid "Chat with us"
+msgstr "Berbincanglah dengan kami"
+
+#: options.php:18 options.php:532
+msgid "Write an answer ..."
+msgstr "Tulis jawaban ..."
+
+#: options.php:44
+msgid "Chatframe Preview"
+msgstr "Pratinjau bingkai obrolan"
+
+#: options.php:86
+msgid "Autochat Conversation Options"
+msgstr "Opsi Percakapan Autochat"
+
+#: options.php:87 options.php:244
+msgid "Save settings"
+msgstr "Simpan Pengaturan"
+
+#: options.php:90
+msgid "Questions language"
+msgstr "Bahasa pertanyaan"
+
+#: options.php:91
+msgid "Check also Wordpress Language in Settings."
+msgstr "Periksa juga Bahasa Wordpress di Pengaturan Umum."
+
+#: options.php:112
+msgid "On/off Autochat"
+msgstr "On / Off Autochat"
+
+#: options.php:119
+msgid "Labels and Messages"
+msgstr "Label dan Pesan"
+
+#: options.php:123
+msgid "Title"
+msgstr "Judul"
+
+#: options.php:128
+msgid "Placeholder"
+msgstr "Placeholder"
+
+#: options.php:142
+msgid "Intro Message"
+msgstr "Pesan Pengantar"
+
+#: options.php:149
+msgid "Chatbot name"
+msgstr "Nama chatbot"
+
+#: options.php:157
+msgid "Show message time"
+msgstr "Tampilkan waktu pesan"
+
+#: options.php:163
+msgid "Don't ask call hour"
+msgstr "Jangan tanya jam panggilan"
+
+#: options.php:169
+msgid "Force Email Validation"
+msgstr "Paksa Validasi Email"
+
+#: options.php:177
+msgid "Width & Height"
+msgstr "Lebar tinggi"
+
+#: options.php:180
+msgid "Width"
+msgstr "Lebar"
+
+#: options.php:185
+msgid "Height"
+msgstr "Tinggi"
+
+#: options.php:191
+msgid "Colors"
+msgstr "Warna"
+
+#: options.php:195
+msgid "Main color"
+msgstr "Warna utama"
+
+#: options.php:200
+msgid "Bubble Background"
+msgstr "Latar Belakang Gelembung"
+
+#: options.php:205
+msgid "Header text color"
+msgstr "Warna teks judul"
+
+#: options.php:212
+msgid "Email"
+msgstr "Surel"
+
+#: options.php:215
+msgid "To"
+msgstr "Untuk"
+
+#: options.php:222
+msgid "Subject"
+msgstr "Subyek"
+
+#: options.php:229
+msgid "Cc:"
+msgstr "Cc:"
+
+#: options.php:234
+msgid "Bcc:"
+msgstr "Bcc:"
+
+#: options.php:240
+msgid ""
+"I accept the display of the Autochat Logo on my Auy Automatic Conversation "
+"Button."
+msgstr ""
+"Saya menerima tampilan Logo Autochat pada Tombol Auy Automatic Conversation "
+"saya."
+
+#: options.php:256
+msgid "There was an error in the settings configuration"
+msgstr "Ada kesalahan dalam konfigurasi pengaturan"
+
+#: options.php:395
+msgid "Changes saved successfully"
+msgstr "Perubahan berhasil disimpan"
+
+#~ msgid "Language"
+#~ msgstr "Bahasa"
+
+#~ msgid "Accept terms and conditions"
+#~ msgstr "Menerima syarat dan ketentuan"
+
+#~ msgid "On"
+#~ msgstr "On"
+
+#~ msgid "Off"
+#~ msgstr "Off"
+
+#~ msgid "Type here..."
+#~ msgstr "Escribe una respuesta..."

@@ -1,0 +1,165 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-01-15 14:28-0300\n"
+"PO-Revision-Date: 2020-01-15 14:29-0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ../includes\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: options.php\n"
+
+#: options.php:13
+msgid "You do not have sufficient permissions to access this page."
+msgstr "您沒有足夠的權限訪問此頁面。"
+
+#: options.php:16 options.php:530
+msgid "Hi. What can I do for you?"
+msgstr "你好 我能為你做什麼？"
+
+#: options.php:17 options.php:531
+msgid "Chat with us"
+msgstr "與我們聊天"
+
+#: options.php:18 options.php:532
+msgid "Write an answer ..."
+msgstr "寫一個答案..."
+
+#: options.php:44
+msgid "Chatframe Preview"
+msgstr "聊天框預覽"
+
+#: options.php:86
+msgid "Autochat Conversation Options"
+msgstr "自動聊天對話選項"
+
+#: options.php:87 options.php:244
+msgid "Save settings"
+msgstr "保存設置"
+
+#: options.php:90
+msgid "Questions language"
+msgstr "問題語言"
+
+#: options.php:91
+msgid "Check also Wordpress Language in Settings."
+msgstr "還要在“常規設置”中檢查Wordpress語言。"
+
+#: options.php:112
+msgid "On/off Autochat"
+msgstr "開/關自動聊天"
+
+#: options.php:119
+msgid "Labels and Messages"
+msgstr "標籤和消息"
+
+#: options.php:123
+msgid "Title"
+msgstr "標題"
+
+#: options.php:128
+msgid "Placeholder"
+msgstr "佔位符"
+
+#: options.php:142
+msgid "Intro Message"
+msgstr "簡介訊息"
+
+#: options.php:149
+msgid "Chatbot name"
+msgstr "聊天機器人名稱"
+
+#: options.php:157
+msgid "Show message time"
+msgstr "顯示留言時間"
+
+#: options.php:163
+msgid "Don't ask call hour"
+msgstr "不要問通話時間"
+
+#: options.php:169
+msgid "Force Email Validation"
+msgstr "強制電子郵件驗證"
+
+#: options.php:177
+msgid "Width & Height"
+msgstr "寬度和高度"
+
+#: options.php:180
+msgid "Width"
+msgstr "幅寬"
+
+#: options.php:185
+msgid "Height"
+msgstr "高度"
+
+#: options.php:191
+msgid "Colors"
+msgstr "色彩"
+
+#: options.php:195
+msgid "Main color"
+msgstr "主色"
+
+#: options.php:200
+msgid "Bubble Background"
+msgstr "氣泡背景"
+
+#: options.php:205
+msgid "Header text color"
+msgstr "標頭文字顏色"
+
+#: options.php:212
+msgid "Email"
+msgstr "電子郵件"
+
+#: options.php:215
+msgid "To"
+msgstr "至"
+
+#: options.php:222
+msgid "Subject"
+msgstr "學科"
+
+#: options.php:229
+msgid "Cc:"
+msgstr "抄送:"
+
+#: options.php:234
+msgid "Bcc:"
+msgstr "密件抄送:"
+
+#: options.php:240
+msgid ""
+"I accept the display of the Autochat Logo on my Auy Automatic Conversation "
+"Button."
+msgstr "我接受在Auy自動對話按鈕上顯示自動聊天徽標。"
+
+#: options.php:256
+msgid "There was an error in the settings configuration"
+msgstr "設置配置中存在錯誤"
+
+#: options.php:395
+msgid "Changes saved successfully"
+msgstr "更改已成功保存"
+
+#~ msgid "Language"
+#~ msgstr "語言"
+
+#~ msgid "Accept terms and conditions"
+#~ msgstr "接受條款和條件"
+
+#~ msgid "On"
+#~ msgstr "上"
+
+#~ msgid "Off"
+#~ msgstr "關"
+
+#~ msgid "Type here..."
+#~ msgstr "Escribe una respuesta..."
